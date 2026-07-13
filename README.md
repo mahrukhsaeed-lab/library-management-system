@@ -32,17 +32,17 @@ A simple Library Management System developed in Python.
 
 3. Run the program:
    ```bash
-   python main.py
+   python library.py
    ```
 
 ## Project Structure
 
 ```
 library-management-system/
-│── main.py
+│── library.py
 │── README.md
 │── books.txt
-│── members.txt
+
 ```
 
 ## Author
