@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f8f6cfc-2ca3-4d8f-b6e6-3f1e28df964c" /># library-management-system
+# library-management-system
 A simple Library Management System built in Python to manage books, issue and book borrowing.
 # Library Management System
 
